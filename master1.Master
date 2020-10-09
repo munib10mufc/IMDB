@@ -1,0 +1,93 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="master1.master.cs" Inherits="imdb.master1" %>
+
+<!DOCTYPE html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml" dir="ltr">
+<head>
+    <title>My-IMDb</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <link rel="stylesheet" href="css/style.css" type="text/css" media="all" />
+    <script type="text/javascript" src="js/jquery-1.4.2.min.js"></script>
+    <script type="text/javascript" src="js/jquery-func.js"></script>
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+    </asp:ContentPlaceHolder>
+
+    <style>
+    .chaipi
+{
+    text-align:center; 
+    color:white; background-color:		#1D2334; border:5px solid #132E; border-radius:15px;  font-weight:bolder; font-size:larger;
+}
+    </style>
+
+</head>
+<body>
+    <!-- Shell -->
+    <div id="shell">
+        <!-- Header -->
+        <div id="header">
+            <h1 id="logo">
+                <a href="home.aspx">My-IMDb</a></h1>
+            <div class="social">
+                <span>FOLLOW US ON:</span>
+                <ul>
+                    <li><a class="twitter" href="https://www.twitter.com">twitter</a></li>
+                    <li><a class="facebook" href="https://www.facebook.com">facebook</a></li>
+                    <li><a class="vimeo" href="https://www.vimeo.com">vimeo</a></li>
+                    <li><a class="rss" href="https://www.rss.com">rss</a></li>
+                </ul>
+            </div>
+            <!-- Navigation -->
+            <div id="navigation">
+                <ul>
+                    <li><a id="homelink" class="active" href="home.aspx" accesskey="1">HOME</a></li>
+                    <li><a href="search.aspx" accesskey="2">SEARCH</a></li>
+                    <li><a id="intheaterlink" href="InTheatre.aspx" accesskey="2" title="In Theaters">IN
+                        THEATERS</a></li>
+                    <li><a id="comingsoonlink" href="UpComingMovies.aspx" accesskey="2" title="Coming Soon">
+                        COMING SOON</a></li>
+                    <li><a id="contactlink" href="ContactUs.aspx" accesskey="2" title="Contact Us">CONTACT</a></li>
+                    <li><a id="loginlink" href="Login.aspx" accesskey="2" title="Login">LOGIN</a></li>
+                </ul>
+            </div>
+            <!-- end Navigation -->
+            <!-- Sub-menu -->
+            <div id="sub-navigation">
+                <ul>
+                    <li><a href="allmovies.aspx">SHOW ALL</a></li>
+                    <li><a href="upcomingmovies.aspx">UP-COMING</a></li>
+                    <li><a href="toprated.aspx">TOP RATED</a></li>
+                    <li><a href="borntoday.aspx">Born-Today</a></li>
+                </ul>
+                <div id="search">
+                    <form action="home_submit" method="get" accept-charset="utf-8">
+                    <input type="submit" value=" " class="search-button" />
+                    </form>
+                </div>
+            </div>
+            <!-- end Sub-Menu -->
+        </div>
+        <!-- end Header -->
+    </div>
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+        </asp:ContentPlaceHolder>
+    </div>
+    <footer  id="footer" style=" text-align: center ;  bottom: 0; width:100%;">
+               <!-- Footer -->
+                
+                    <p>
+                        <a href="home.aspx">HOME</a> <span>|</span> <a href="search.aspx">SEARCH</a> <span>|</span>
+                        <a href="intheatre.aspx">IN THEATERS</a> <span>|</span> <a href="upcomingmovies.aspx">
+                            UP-COMING</a> <span>|</span> <a href="toprated.aspx">TOP RATED</a> <span>|</span>
+                        <a href="Login.aspx">Login</a> <span>|</span> <a href="contactus.aspx">CONTACT </a>
+                    </p>
+                    <p>
+                        &copy; 2014 myIMDb. All Rights Reserved. Designed by <a href="https://www.facebook.com/PommyGang"
+                            target="_blank" title="myIMDB Web Site">Pommy Gang ( Non-Profit Organization )</a></p>
+                <!-- end Footer -->
+    
+    </footer>
+</body>
+</html>

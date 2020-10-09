@@ -1,0 +1,43 @@
+C:\Users\Munib Tahir\Desktop\911\imdb\imdb\bin\imdb.dll
+C:\Users\Munib Tahir\Desktop\911\imdb\imdb\bin\imdb.pdb
+C:\Users\Munib Tahir\Desktop\911\imdb\imdb\obj\Debug\imdb.dll
+C:\Users\Munib Tahir\Desktop\911\imdb\imdb\obj\Debug\imdb.pdb
+C:\Users\JaZz\Documents\Visual Studio 2010\Projects\imdb\imdb\bin\imdb.dll
+C:\Users\JaZz\Documents\Visual Studio 2010\Projects\imdb\imdb\bin\imdb.pdb
+C:\Users\JaZz\Documents\Visual Studio 2010\Projects\imdb\imdb\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\JaZz\Documents\Visual Studio 2010\Projects\imdb\imdb\obj\Debug\imdb.dll
+C:\Users\JaZz\Documents\Visual Studio 2010\Projects\imdb\imdb\obj\Debug\imdb.pdb
+C:\Users\Munib Tahir\Desktop\junaid\imdb\imdb\bin\imdb.dll
+C:\Users\Munib Tahir\Desktop\junaid\imdb\imdb\bin\imdb.pdb
+C:\Users\Munib Tahir\Desktop\junaid\imdb\imdb\obj\Debug\imdb.dll
+C:\Users\Munib Tahir\Desktop\junaid\imdb\imdb\obj\Debug\imdb.pdb
+C:\Users\hamza shafiq\Downloads\imdb (1)\imdb\imdb\bin\imdb.dll
+C:\Users\hamza shafiq\Downloads\imdb (1)\imdb\imdb\bin\imdb.pdb
+C:\Users\hamza shafiq\Downloads\imdb (1)\imdb\imdb\obj\Debug\imdb.dll
+C:\Users\hamza shafiq\Downloads\imdb (1)\imdb\imdb\obj\Debug\imdb.pdb
+C:\Users\Munib Tahir\Desktop\jaidi\imdb\imdb\bin\imdb.dll
+C:\Users\Munib Tahir\Desktop\jaidi\imdb\imdb\bin\imdb.pdb
+C:\Users\Munib Tahir\Desktop\jaidi\imdb\imdb\obj\Debug\imdb.dll
+C:\Users\Munib Tahir\Desktop\jaidi\imdb\imdb\obj\Debug\imdb.pdb
+F:\jaidi\imdb\imdb\bin\imdb.dll
+F:\jaidi\imdb\imdb\bin\imdb.pdb
+F:\jaidi\imdb\imdb\obj\Debug\imdb.dll
+F:\jaidi\imdb\imdb\obj\Debug\imdb.pdb
+C:\Users\hamza shafiq\Downloads\jaidi\imdb\imdb\bin\imdb.dll
+C:\Users\hamza shafiq\Downloads\jaidi\imdb\imdb\bin\imdb.pdb
+C:\Users\hamza shafiq\Downloads\jaidi\imdb\imdb\obj\Debug\imdb.dll
+C:\Users\hamza shafiq\Downloads\jaidi\imdb\imdb\obj\Debug\imdb.pdb
+C:\Users\Munib Tahir\Desktop\final\imdb\imdb\bin\imdb.dll
+C:\Users\Munib Tahir\Desktop\final\imdb\imdb\bin\imdb.pdb
+C:\Users\Munib Tahir\Desktop\final\imdb\imdb\obj\Debug\imdb.dll
+C:\Users\Munib Tahir\Desktop\final\imdb\imdb\obj\Debug\imdb.pdb
+C:\Users\Munib Tahir\Desktop\munib final project\imdb\imdb\bin\imdb.dll
+C:\Users\Munib Tahir\Desktop\munib final project\imdb\imdb\bin\imdb.pdb
+C:\Users\Munib Tahir\Desktop\munib final project\imdb\imdb\obj\Debug\imdb.dll
+C:\Users\Munib Tahir\Desktop\munib final project\imdb\imdb\obj\Debug\imdb.pdb
+E:\uni\fast\4th sem\database\project work\munib final project\imdb\imdb\bin\imdb.dll
+E:\uni\fast\4th sem\database\project work\munib final project\imdb\imdb\bin\imdb.pdb
+E:\uni\fast\4th sem\database\project work\munib final project\imdb\imdb\obj\Debug\imdb.dll
+E:\uni\fast\4th sem\database\project work\munib final project\imdb\imdb\obj\Debug\imdb.pdb
+E:\uni\fast\4th sem\database\project work\munib final project\imdb\imdb\bin\imdb.dll.config
+E:\uni\fast\4th sem\database\project work\munib final project\imdb\imdb\obj\Debug\imdb.csprojResolveAssemblyReference.cache
